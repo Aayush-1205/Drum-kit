@@ -1,0 +1,148 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.q{
+  background: url("images/alert-notification.png");
+  object-fit: contain;
+  background-position: center;
+  background-size: cover;
+}
+.a{
+  background: url("images/bless-choir.avif");
+  background-size: cover;
+}
+.w{
+  background: url("images/cartoon-toy-whistle.jpg");
+  background-size: cover;
+}
+.s{
+  background: url("images/cartoon-whistling.png");
+  background-size: cover;
+}
+.e{
+  background: url("images/cinematic-tribal-flute.png");
+  background-size: cover;
+}
+.d{
+  background: url("images/cool-guitar-riff.png");
+  background-size: cover;
+}
+.r{
+  background: url("images/flute-alert.png");
+  background-size: cover;
+}
+.f{
+  background: url("images/guitar-string.webp");
+  background-size: cover;
+}
+.p{
+  background: url("images/guitar-stroke-up.png");
+  background-size: cover;
+}
+.l{
+  background: url("images/bass-guitar!.jpg");
+  background-size: cover;
+}
+.o{
+  background: url("images/little-piano-game-over.webp");
+  background-size: cover;
+}
+.k{
+  background: url("images/losing-piano.jpg");
+  background-size: cover;
+}
+.i{
+  background: url("images/harp-notification.jpg");
+  background-size: cover;
+}
+.j{
+  background: url("images/orchestral-violin-jingle.png");
+  background-size: cover;
+}
+.u{
+  background: url("images/piano-game-over.jpg");
+  background-size: cover;
+}
+.h{
+  background: url("images/warfare-horn.jpeg");
+  background-size: cover;
+}
+
+.z {
+background: url("images/crash.png");
+}
+
+.x {
+background: url("images/kick.png");
+}
+
+.c {
+background: url("images/snare.png");
+}
+
+.v {
+background: url("images/tom1.png");
+}
+
+.b {
+background: url("images/tom2.png");
+}
+
+.n {
+background: url("images/tom3.png");
+}
+
+.m {
+background: url("images/tom4.png");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
