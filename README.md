@@ -1,2 +1,2 @@
 # Drum Kit
-Perview: https://aayush-1205.github.io/Drum-kit/
+Preview: https://aayush-1205.github.io/Drum-kit/
